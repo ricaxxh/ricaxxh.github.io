@@ -1,0 +1,32 @@
+/* productsans-light */
+@font-face {
+	font-family: Product Sans;
+	font-style: normal;
+	font-weight: 300;
+	src: local("ProductSans Light"), local("ProductSans-Light"), url(productsans-light.ttf) format("ttf");
+	font-display: swap;
+}
+/* productsans-regular */
+@font-face {
+	font-family: Product Sans;
+	font-style: normal;
+	font-weight: 400;
+	src: local("ProductSans Regular"), local("ProductSans-Regular"), url(productsans-regular.ttf) format("ttf");
+	font-display: swap;
+}
+/* productsans-medium */
+@font-face {
+	font-family: Product Sans;
+	font-style: normal;
+	font-weight: 500;
+	src: local("ProductSans Medium"), local("ProductSans-Medium"), url(productsans-medium.ttf) format("ttf");
+	font-display: swap;
+}
+/* productsans-bold */
+@font-face {
+	font-family: Product Sans;
+	font-style: normal;
+	font-weight: 700;
+	src: local("ProductSans Bold"), local("ProductSans-Bold"), url(productsans-bold.ttf) format("ttf");
+	font-display: swap;
+}

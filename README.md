@@ -1,2 +1,4 @@
-# ricaxxh.github.io
-an example of responsive website
+# Responsive website
+> Proyecto universitario
+
+Un ejemplo de una página web responsiva con un menu responsivo.

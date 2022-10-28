@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 1rem;
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logotype {
+    font-size: 2rem;
+    font-weight: 700;
+
+    font-family: Product Sans;
+}

@@ -1,0 +1,35 @@
+.buttons {
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.5rem;
+}
+
+.button {
+    background: #FFFFFF;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+
+    border-radius: 8px;
+
+    padding-inline: 2rem;
+
+    transition: all .3s;
+}
+
+.button:hover {
+    border: 2px solid rgba(0, 0, 0, 1);
+    transform: scale(1.025);
+}
+
+.textButton {
+    font-family: Product Sans;
+    font-weight: 500;
+}
+
+@media (min-width: 800px) {
+    .buttons {
+        flex-direction: row;
+
+        justify-content: center;
+    }
+}
